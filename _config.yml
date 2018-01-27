@@ -9,11 +9,11 @@
 title: Website
 email: svm071848@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  this is awesome website to help people.
+  this is a website for reading post.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: SurajVi69804532
+github_username:  surajv5
 
 # Build settings
 markdown: kramdown
